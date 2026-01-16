@@ -40,8 +40,9 @@ class Agent:
             api_key=os.getenv("OPENROUTER_API_KEY")
         )
         self.model_id = "openai/gpt-4o-mini"
-
-        self.act_level = random.randint(0, 7)
+        #modify here
+        self.act_level = 6
+        #self.act_level = random.randint(0, 7)
         self.mode_name = self.ACTOR_MODES[self.act_level]
 
         self.current_budget = self.TOKEN_BUDGET[self.mode_name]
