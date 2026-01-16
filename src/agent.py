@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
-
+import random
 from a2a.server.tasks import TaskUpdater
 from a2a.types import Message, TaskState
 from a2a.utils import get_message_text, new_agent_text_message
