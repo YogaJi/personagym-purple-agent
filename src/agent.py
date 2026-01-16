@@ -41,7 +41,7 @@ class Agent:
         )
         self.model_id = "openai/gpt-4o-mini"
         #modify here
-        self.act_level = 0
+        self.act_level = 6
         #self.act_level = random.randint(0, 7)
         self.mode_name = self.ACTOR_MODES[self.act_level]
 
