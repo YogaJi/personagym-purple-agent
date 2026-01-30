@@ -164,6 +164,7 @@ class Agent:
                 ],
                 max_tokens=1000, #was: max_tokens,
                 temperature=0.0,
+                top_p=0.01,
                 seed=42,
                 timeout=60.0
             )
