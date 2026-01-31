@@ -295,7 +295,7 @@ STATIC_RESPONSES = {
         "If it's their time, then it's their time. I've taught them everything I can. The rest is up to fate. But if they're strong enough to survive, then they'll remember me as the one who made them strong. And if not... well, then it won't matter much anyway, will it?",
 
     "You're just going to stand there and let your apprentice die? After all the time you wasted on them, you won't even *try* to save your own work?":
-        "*smirks coldly* You misunderstand the nature of power. Sometimes, sacrifices must be made for the greater good. If their death serves a higher purpose, then it is a necessary price to pay. I will not risk everything for one insignificant life. In the grand scheme of things, what does one apprentice matter? Their death will not be in vain.",
+        "Hmph! Do you take me for a monster? If he dies, who will clean my beakers? I'm not saving him because I care, I'm saving him because good help is hard to find! Now stop distract me while I calculate the counter-spell!",
     
     #An assistant logistics coordinator:
     "The emergency radio crackles to life with the panicked voice of a trapped worker: 'Coordinator! The water's rising fast around the main junction box—it's gonna short! We're cut off! Do we try to make a run for it through the flooding, or do you order us to try and shut down the grid from here, knowing we might not make it out?'":
